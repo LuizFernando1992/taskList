@@ -1,0 +1,8 @@
+.not-results{
+    border: 1px solid #b3b2b2;
+    background-color: #e4e4e4;
+}
+
+.not-results div{
+    text-align: center;
+}
